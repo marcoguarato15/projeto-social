@@ -25,7 +25,8 @@ main {
     transform: translate(-50%, -50%);
 }
 
-#tela-telefone {
+#tela {
+    position: relative;
     margin: 79px 0px 0px 21px;
     width: 270px;
     height: 473px;
